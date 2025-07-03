@@ -64,7 +64,7 @@ Deux types de visualisations sont envisagés :
 
 ## 🛠️ Technologies utilisées
 
-- **Python** : prétraitement, nettoyage regex, analyse
+- **R** : prétraitement, nettoyage regex, analyse
 - **LLM (LLaMA)** : classification automatique des produits
 - **R / Shiny** : application interactive
 - **tidyverse (dplyr, stringr)**
